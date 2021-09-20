@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "NCT",
+  "members": [
+    {
+      "id": 1,
+      "name": "Taeyong",
+      "birthDate": "01/01/1995",
+      "roles": [
+        "SINGER"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Doyoung",
+      "birthDate": "01/01/1994",
+      "roles": [
+        "SINGER"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ten",
+      "birthDate": "01/01/1996",
+      "roles": [
+        "SINGER"
+      ]
+    }
+  ]
+}
