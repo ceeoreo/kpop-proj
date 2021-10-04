@@ -5,15 +5,17 @@
     {
       "id": 1,
       "name": "Taeyong",
-      "birthDate": "01/01/1995",
+      "birthDate": "07/01/1995",
       "roles": [
+        "RAPPER",
+        "DANCER",
         "SINGER"
       ]
     },
     {
       "id": 2,
       "name": "Doyoung",
-      "birthDate": "01/01/1994",
+      "birthDate": "02/01/1996",
       "roles": [
         "SINGER"
       ]
@@ -21,10 +23,189 @@
     {
       "id": 3,
       "name": "Ten",
-      "birthDate": "01/01/1996",
+      "birthDate": "02/27/1996",
       "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jaehyun",
+      "birthDate": "02/14/1997",
+      "roles": [
+        "SINGER",
+        "DANCER",
+        "RAPPER"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lucas",
+      "birthDate": "01/25/1999",
+      "roles": [
+        "RAPPER",
+        "DANCER",
         "SINGER"
       ]
+    },
+    {
+      "id": 6,
+      "name": "Jaemin",
+      "birthDate": "08/13/2000",
+      "roles": [
+        "RAPPER",
+        "DANCER",
+        "SINGER"
+      ]
+    },
+
+    {
+      "id": 7,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ten",
+      "birthDate": "02/27/1996",
+      "roles": [
+        "SINGER",
+        "DANCER"
+      ]
     }
+
   ]
 }
