@@ -1,4 +1,4 @@
-import { ApolloServer, gql } from 'apollo-server'
+import { ApolloServer, gql } from 'apollo-server';
 import { typeDefs, resolvers } from './schema.js';
 
 const server = new ApolloServer({

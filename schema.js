@@ -1,6 +1,6 @@
-import { gql } from 'apollo-server'
-import nct from './data/nct.json'
-// if we add other groups, will we have to import each one individually?
+import { gql } from 'apollo-server';
+import nct from './data/nct.json';
+
 export const typeDefs = gql`
   type Query {
     groups: [Group!]!
@@ -23,7 +23,6 @@ export const typeDefs = gql`
     roles: [Role!]!
   }
 `;
-// Also don't really understand what an enum is??
 
 export const resolvers = {
   Query: {
@@ -37,4 +36,3 @@ export const resolvers = {
     }
   }
 }
-// will this change (line 29) if we add more groups?
