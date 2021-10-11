@@ -1,0 +1,20 @@
+type Query {
+  groups: [Group!]!
+}
+
+type Group {
+  name: String!
+  members: [Member!]!
+}
+
+enum Role {
+  SINGER
+  RAPPER
+  DANCER
+}
+
+type Member {
+  name: String!
+  age: Int!
+  roles: [Role!]!
+}

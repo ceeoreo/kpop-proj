@@ -1,27 +1,11 @@
+import fs from 'fs'
 import { gql } from 'apollo-server';
 import nct from './data/nct.json';
 
+const schema = fs.readFileSync("./schema.graphql", "utf8").toString();
+
 export const typeDefs = gql`
-  type Query {
-    groups: [Group!]!
-  }
-
-  type Group {
-    name: String!
-    members: [Member!]!
-  }
-
-  enum Role {
-    SINGER
-    RAPPER
-    DANCER
-  }
-
-  type Member {
-    name: String!
-    age: Int!
-    roles: [Role!]!
-  }
+  ${schema}
 `;
 
 export const resolvers = {
